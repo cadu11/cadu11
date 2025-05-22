@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🔭 I’m currently working on ...
 
 <!--
 **cadu11/cadu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
